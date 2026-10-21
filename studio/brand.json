@@ -1,0 +1,16 @@
+{
+  "name": "PLAYA EXPAT NEWS · BY MYCASA",
+  "logo": "logo.png",
+  "bg": "#2B55DB",
+  "text": "#FFFFFF",
+  "sub": "#E8EDFB",
+  "muted": "#B5C4EE",
+  "rule": "#11203F",
+  "accent": "#F89D23",
+  "headFont": "dm-serif-display/files/dm-serif-display-latin-400-normal.woff2",
+  "bodyBold": "manrope/files/manrope-latin-800-normal.woff2",
+  "bodyRegular": "manrope/files/manrope-latin-500-normal.woff2",
+  "headSize": 96,
+  "bigSize": 220,
+  "sourceLabel": "Source"
+}
