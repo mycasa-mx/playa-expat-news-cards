@@ -1,0 +1,50 @@
+[
+  {
+    "file": "01_weather_19nov",
+    "tag": "WEATHER",
+    "big": "85°F",
+    "title": "A shower this morning, then sun — and it will *feel like 97*",
+    "sub": "Low 74°F · 63% chance of rain before noon · light north wind, 5 mph · UV 5<br>Water 84°F, shoreline waves about 1 foot. Cold front 6 is parked over the Gulf and its heavy rain is staying in the south of the state.<br><b>Nothing tropical in the Caribbean. Beach and pool are fine — do errands after the morning shower.</b>",
+    "source": "AccuWeather · SMN via El Financiero · NHC",
+    "date": "Thu 19 Nov 2026",
+    "titleSize": 84
+  },
+  {
+    "file": "02_culture_guerradechistes",
+    "tag": "CULTURE",
+    "big": "$790",
+    "title": "Pesos buys *two* general seats at Guerra de Chistes tonight",
+    "sub": "Teatro de la Ciudad, Av. Chinchorro between 115 and 120 · <b>tonight, 8 PM</b><br>2-for-1 on Luneta VIP $990, Preferente $890 and General $790. Mezzanine $690 is not included. Add two tickets and it applies by itself.<br><b>In Spanish. Children over 3 pay.</b> Online at tusboletos.mx, or the theatre box office, 9 to 5 every day.",
+    "source": "TusBoletos · Teatro de la Ciudad",
+    "date": "Thu 19 Nov 2026",
+    "titleSize": 82
+  },
+  {
+    "file": "03_news_aguakan_scjn",
+    "tag": "NEWS",
+    "big": "2053",
+    "title": "The year Aguakan's contract runs to, and the *Supreme Court* will now review it",
+    "sub": "Mexico's Supreme Court agreed to take up two cases over the state Congress's 2023 cancellation of Aguakan's concession extension — one approved 8–1, one 9–0.<br>Aguakan keeps supplying Playa del Carmen, Cancún, Puerto Morelos and Isla Mujeres under a court suspension from January 2024. A ruling may not come before the first half of 2027.<br><b>Nothing changes about your water or your bill today.</b>",
+    "source": "Luces del Siglo · De Luna Noticias",
+    "date": "Thu 19 Nov 2026",
+    "titleSize": 74
+  },
+  {
+    "file": "04_essentials_humo_sur",
+    "tag": "ESSENTIALS",
+    "title": "South Playa says the burning smoke now comes *most evenings*",
+    "sub": "About 12,000 residents across some 20 fraccionamientos — Bali I, Bali II, La Joya and others — met city officials on Wednesday. Smoke from waste burned near Las Torres has been reported since January 2024 and now arrives around 6 PM.<br>City hall accepted a 10-point petition and meets the group again <b>Wed 2 Dec at 9 AM</b> in the new Palacio Municipal.<br><b>A fire burning now is a 911 call.</b> The city's fire and civil-protection line is in the caption.",
+    "source": "Noticaribe · Reportero Ambulante",
+    "date": "Thu 19 Nov 2026",
+    "titleSize": 76
+  },
+  {
+    "file": "05_weekend_roundup",
+    "tag": "WEEKEND",
+    "title": "Six things to do in Playa, *Friday to Sunday*",
+    "sub": "<b>Fri 8pm</b> ¡A Vivir! Odin Dupeyron, city theatre<br><b>Fri 8pm</b> Queens of the Dead, Parque La Ceiba, $60<br><b>Sat 8pm</b> Boca Vieja, Parque La Ceiba, $60<br><b>Sun 6am</b> Xaman-Ha shore fishing, Playa Paraíso<br><b>Sun noon</b> Free kids' matinée, La Ceiba — register<br><b>Daily to 30 Nov, 6–11pm</b> Mercadito Navideño",
+    "source": "Organisers' own pages · Ayuntamiento",
+    "date": "Fri 20 – Sun 22 Nov 2026",
+    "titleSize": 72
+  }
+]
