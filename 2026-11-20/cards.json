@@ -1,0 +1,41 @@
+[
+  {
+    "file": "01_weather_20nov",
+    "tag": "WEATHER",
+    "big": "85°F",
+    "title": "Showers this afternoon, and it will *feel like 97*",
+    "sub": "Low 72°F · 60% chance of rain, mostly after midday · light south wind, 5 mph · UV 5, moderate<br>Sea is calm — waves about 2 feet. High tide 6:05 PM, low tide 12:16 PM.<br><b>Beach and pool in the morning. Take an umbrella for afternoon errands.</b><br>Weekend: Sat 86°F and mostly dry · Sun 87°F with morning showers.",
+    "source": "AccuWeather · Windfinder",
+    "date": "Fri 20 Nov 2026",
+    "titleSize": 84
+  },
+  {
+    "file": "02_sargassum_beaches_clear",
+    "tag": "SARGASSUM",
+    "big": "5",
+    "title": "Playa beaches checked *clear of sargassum* on Monday",
+    "sub": "On <b>16 November</b> officials found no sargassum at <b>Playacar Fase 2, Playa Caribe, Playa 72, Pelícanos and Cisne</b>. Light scattered material at Playacar Fase 1, El Recodo and Mamitas.<br>The Navy's ocean institute sees a <b>low chance of big arrivals here in the short term.</b><br>To report a beach problem, call ZOFEMAT — number in the caption.",
+    "source": "Riviera Maya News · SEMAR IOGMC",
+    "date": "Fri 20 Nov 2026",
+    "titleSize": 86
+  },
+  {
+    "file": "03_news_16dias_violencia",
+    "tag": "NEWS",
+    "big": "16",
+    "title": "Days of free city events against *gender violence*, from Nov 25",
+    "sub": "Playa del Carmen's programme runs <b>25 Nov to 10 Dec</b>. Two free dates worth the diary, both <b>Sat 28 Nov</b>:<br><b>6 AM</b> — 3 km run and walk at plaza 28 de Julio. Walk up, free; organisers ask for a donation of personal hygiene products.<br><b>Noon</b> — Olimpia Coral Melo on Mexico's digital-violence law, at the Teatro de la Ciudad. Free entry.<br>The Palacio Municipal is lit orange on 23 Nov.",
+    "source": "Ayuntamiento, via Noticaribe and Quinta Fuerza",
+    "date": "Fri 20 Nov 2026",
+    "titleSize": 74
+  },
+  {
+    "file": "04_essentials_revolution_day",
+    "tag": "ESSENTIALS",
+    "title": "Revolution Day is *today* — but Mexico took the day off on Monday",
+    "sub": "Mexico moves this holiday to the <b>third Monday of November</b>, so the rest day was <b>Mon 16 Nov</b>. Banks shut that day and reopened Tuesday the 17th.<br>Today, 20 November, is the real anniversary — <b>116 years</b> since the 1910 revolution — but it is not the public holiday, and banks have been on normal hours since the 17th.<br>City hall is at Av. 20 Norte between Calle 8 and 10 Norte, Centro. <b>Switchboard in the caption.</b>",
+    "source": "ABM, via UnoTV and López-Dóriga",
+    "date": "Fri 20 Nov 2026",
+    "titleSize": 72
+  }
+]
