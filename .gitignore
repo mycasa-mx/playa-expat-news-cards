@@ -1,0 +1,7 @@
+# Render-time npm install only. `node render.js` is run after an explicit
+# `npm i @fontsource/dm-serif-display @fontsource/manrope playwright@1`,
+# so none of this belongs in the repo. Keeping it untracked made the
+# stop hook ask for unapproved cards to be pushed every morning.
+studio/node_modules/
+studio/package.json
+studio/package-lock.json
