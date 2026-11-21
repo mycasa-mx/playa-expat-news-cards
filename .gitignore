@@ -5,3 +5,12 @@
 studio/node_modules/
 studio/package.json
 studio/package-lock.json
+
+# Per-run scratch for the renderer. `cards.json` is rewritten every morning
+# and `out/` holds cards that have NOT been approved yet. Approved cards are
+# COPIED to the dated YYYY-MM-DD/ folder and committed from there, so neither
+# of these paths should ever be tracked. The repo is public and its raw URLs
+# are what Metricool serves: an untracked out/ made the stop hook ask, every
+# morning, for unapproved cards to be pushed to live public URLs.
+studio/cards.json
+studio/out/
