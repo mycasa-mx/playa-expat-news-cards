@@ -1,0 +1,52 @@
+[
+  {
+    "file": "01_weather_realfeel_98",
+    "tag": "WEATHER",
+    "big": "98°F",
+    "title": "RealFeel this afternoon — *heat*, not rain, is today's story",
+    "sub": "High 86°F · low 76°F · UV 5 · light east wind, 6 mph, gusts to 13<br>A 60% chance of rain and about an hour of it. AccuWeather expects morning showers; two other models put the best chance nearer 3 PM. Grey and very humid until mid-morning, then hot.<br><b>The sea is flat — about 2 feet, water 84°F. Beach and pool are the day. Run errands before noon or after 5.</b>",
+    "source": "AccuWeather · Windfinder · tiempo3",
+    "date": "Sun 22 Nov 2026",
+    "titleSize": 82
+  },
+  {
+    "file": "02_paperwork_phone_registration",
+    "tag": "PAPERWORK",
+    "big": "Nov 30",
+    "title": "The registration deadline for phone numbers *ending in 7*",
+    "sub": "Mexico is switching off unregistered mobile lines by last digit. <b>Ending 8: Dec 15. Ending 9: Dec 31. Ending 0 to 6: your date has already passed</b> — but you can still register, free, and get the number back.<br><b>Foreign residents: a valid passport is enough. You do not need a CURP.</b><br>Start at registratulinea.crt.gob.mx, which sends you to your own carrier. Prepaid and plan lines both count.",
+    "source": "Diario Oficial de la Federación · CRT",
+    "date": "Sun 22 Nov 2026",
+    "titleSize": 80
+  },
+  {
+    "file": "03_news_quinta_spending",
+    "tag": "NEWS",
+    "title": "More visitors on the Quinta, *the same empty tills*",
+    "sub": "Two separate reporting trips found the same thing — foot traffic on Fifth Avenue is up since late October and spending is not. The sellers blame thinner flights from the US; Por Esto's reporting blames all-inclusive packages that keep the money inside the resorts.<br>The state tourism office puts Playa del Carmen at <b>69.63% hotel occupancy for January to August, down 4.25 points on 2025</b>.<br><b>Own a shop on the Quinta? The city's Navidad Mágica decoration contest takes entries to 30 Nov — 100,000 pesos top prize.</b>",
+    "source": "Grupo Animal · Por Esto · Sedetur",
+    "date": "Sun 22 Nov 2026",
+    "titleSize": 84
+  },
+  {
+    "file": "04_livinghere_parking_exemption",
+    "tag": "LIVING HERE",
+    "big": "FREE",
+    "title": "A free resident permit that *skips the parking meters*",
+    "sub": "If your home in a metered area has no garage — or one that isn't assigned to it — the city issues a tarjetón that exempts you from paying. Valid one year, renewed with a single form.<br><b>Bring five things: the application form (original and copy), and copies of your official ID, tarjeta de circulación, proof of address under 60 days old, and a no-debt tenencia certificate.</b><br>In person only, 2nd floor of the Palacio Municipal on Av. CTM. Mon to Fri, 9 to 2.",
+    "source": "playadelcarmen.gob.mx, 2 Jul 2026",
+    "date": "Sun 22 Nov 2026",
+    "titleSize": 86
+  },
+  {
+    "file": "05_events_saturday_four",
+    "tag": "EVENTS",
+    "big": "4",
+    "title": "Things to do in Playa *next Saturday*",
+    "sub": "<b>6 AM</b> — free 3 km run and walk, Plaza 28 de Julio. Bring hygiene products to donate.<br><b>12 PM</b> — Olimpia Coral Melo on the Ley Olimpia, Teatro de la Ciudad. Free, walk in.<br><b>7 PM</b> — Actividad Paranormal, a Broadway-style musical, same theatre. Doors close 6:45.<br><b>8 PM</b> — Las catadoras de Hitler, El Cine Club at Parque La Ceiba. $60 online, $70 at the door.",
+    "source": "El Cine Club · Teatro de la Ciudad · City hall",
+    "date": "Sun 22 Nov 2026",
+    "titleSize": 70,
+    "bigSize": 190
+  }
+]
