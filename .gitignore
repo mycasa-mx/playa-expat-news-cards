@@ -14,3 +14,11 @@ studio/package-lock.json
 # morning, for unapproved cards to be pushed to live public URLs.
 studio/cards.json
 studio/out/
+
+# Same thing again for the `work/` build dir. The studio skill's own
+# instructions say `mkdir -p work`, so the renderer may be run from either
+# `studio/` or `work/` depending on the run. Both are per-run scratch:
+# node_modules, a cards.json rewritten every morning, and an out/ holding
+# cards that Raúl has NOT approved yet. Approved cards are copied to the
+# dated YYYY-MM-DD/ folder and committed from there.
+work/
